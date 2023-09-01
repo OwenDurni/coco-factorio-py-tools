@@ -14,6 +14,9 @@ path names rather than backslashes. Ex: `C:/Users/me/AppData/Roaming/Factorio/mo
 
 This project was written in the PyCharm IDE.
 
-### Dependencies
+#### Dependencies
+
+Install with `pip install <package>`
 
 *   https://github.com/redruin1/factorio-draftsman - for python factorio blueprint manipulation
+*   https://pypi.org/project/pyperclip/ - for API to copy/paste clipboard
