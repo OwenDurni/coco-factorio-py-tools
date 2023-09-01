@@ -8,4 +8,12 @@ modifications to get the behavior you want.
 The `factorio-draftsman` package will need to be configured to recognize the set of mods you are playing with.
 
 Run `draftsman-update -p "/absolute/path/to/mods"` to accomplish this. If you are on Windows, use forward slashes in
-path names rather than backslashes. Ex: `C:/Users/me/AppData/Roaming/Factorio/mods`. 
+path names rather than backslashes. Ex: `C:/Users/me/AppData/Roaming/Factorio/mods`.
+
+#### IDE
+
+This project was written in the PyCharm IDE.
+
+### Dependencies
+
+*   https://github.com/redruin1/factorio-draftsman - for python factorio blueprint manipulation
